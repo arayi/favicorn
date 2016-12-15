@@ -1,6 +1,6 @@
 {
   "name": "favicorn",
-  "version": "1.0.0",
+  "version": "1.0.5",
   "description": "dynamic favicons rendered via html5 canvas",
   "main": "favicorn.js",
   "repository": "https://github.com/arayi/favicorn",
